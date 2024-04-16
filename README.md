@@ -34,7 +34,9 @@ def gcd():
 ```
 
 ## Output:
+![image](https://github.com/Ravi-1105/GCD-of-two-numbers/assets/139841688/3f272f50-ae14-4171-9a7a-cb38582b99d5)
 
+![image](https://github.com/Ravi-1105/GCD-of-two-numbers/assets/139841688/89106b31-1aa0-4525-8077-e391d11b288d)
 
 
 ## Result:
